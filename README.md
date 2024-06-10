@@ -1,10 +1,10 @@
 # Sundown-Studio-Web-Variant
 
-Welcome to the Sundown Studio Web Variant repository! This project is a clone of the Sundown Studio website, built using HTML, CSS, JavaScript, and utilizing the Locomotive Scroll library for smooth scrolling effects.
+Welcome to the Sundown Studio Web Variant repository! This project is an homage to the Sundown Studio website, meticulously crafted with HTML, CSS, and JavaScript, enhanced by the Locomotive Scroll library for seamless scrolling effects.
 
 ## Project Overview
 
-The Sundown Studio Web Variant aims to replicate the design and functionality of the original Sundown Studio website, showcasing a portfolio of creative projects with a sleek and interactive user interface.
+The Sundown Studio Web Variant mirrors the design and functionality of the original website, presenting a portfolio of creative endeavors through an engaging and dynamic user interface. Explore our curated collection of projects and experience innovation in every scroll.
 
 ## Key Features
 
